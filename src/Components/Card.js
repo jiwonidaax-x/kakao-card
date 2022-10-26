@@ -1,6 +1,7 @@
 import { Status } from "./Status";
 import { Product } from "./Product";
 export const Card=(props)=>{
+
     return (
         <article className="text-left align-text-top w-96 h-fit rounded-lg shadow-xl my-10 mx-10 inline-block ">
             <img 
